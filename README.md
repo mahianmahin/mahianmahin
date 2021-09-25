@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on **Remote Job**
 
-- 👨‍💻 All of my projects are available at **[coming soon](https://https://github.com/shuvro-baset)**
+- 👨‍💻 All of my projects are available at **[coming soon](https://https://github.com/mahianmahin)**
 
-- 📫 How to reach me **shuvro.aps.75@gmail.com**
+- 📫 How to reach me **mahianmahin@yahoo.com**
 
-- ⚡ Fun fact **I Love to play cricket**
+- ⚡ Fun fact **I Love to crawl source codes**
 
 ## 🚀 Languages and Tools:
 
