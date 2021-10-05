@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Learning Management System**
+- 🔭 I’m currently working on **Some of my projects**
 
-- 🌱 I’m currently learning **React & Data Science**
+- 🌱 I’m currently learning **ReactJS & Data Science**
 
 - 👯 I’m looking to collaborate on **Remote Job**
 
