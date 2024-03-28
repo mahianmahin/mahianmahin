@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **Some of my projects**
 
-- 🌱 I’m currently learning **ReactJS & Data Science**
-
 - 👯 I’m looking to collaborate on **Remote Job**
 
 - 👨‍💻 All of my projects are available at **[coming soon](https://https://github.com/mahianmahin)**
